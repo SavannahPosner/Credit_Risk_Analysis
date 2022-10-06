@@ -6,7 +6,7 @@
 The goal is to be able to predict the risk of a loan. The purpose of this machine learning exercise is to explore different machine learning algorithms that can make the most accurate loan predictions. Because we are aiming to predict the risk of a loan, precision is going to be favored over the recall when determining the best way to approach this problem. 
 
 
-### [Results](https://github.com/markdown-it/markdown-it-deflist)
+### Results
 
 ![Image_one](https://raw.githubusercontent.com/SavannahPosner/Credit_Risk_Analysis/main/images/1.png)
 
